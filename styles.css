@@ -1,0 +1,22 @@
+body{
+    background-image: url(paper.jpg) ;
+}
+hr{
+    border: 1px grey solid;
+}
+table{
+    background-color:#E1E8EB;
+    width: 65%;
+    border: #D5D5D5 1px solid;
+}
+td,th{
+border: #D5D5D5 1px solid;
+}
+.par{
+    font-size: 18px;
+    color: #343A40;
+}
+.heading-top{
+    color:#343A40;
+    font-size: 30px;
+}
